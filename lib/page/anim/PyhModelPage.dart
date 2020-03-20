@@ -1,8 +1,4 @@
-///
-/// Created by NieBin on 2019/6/10
-/// Github: https://github.com/nb312
-/// Email: niebin312@gmail.com
-///
+
 import "package:flutter_widgets/const/_const.dart";
 import 'package:flutter/material.dart';
 
